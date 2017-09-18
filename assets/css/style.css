@@ -1,0 +1,22 @@
+button {
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 4px;
+}
+.btn-primary {
+  background-color: 	#1E90FF;
+  margin: 3px;
+}
+.btn-primary:hover, .btn-success:hover {
+  box-shadow:0 8px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+  opacity: 0.9;
+}
+#search-bar {
+  width: 70%;
+  margin-left: 4px;
+}
+.gifs {
+  margin: 20px 15px;;
+  display: inline-block;
+}
